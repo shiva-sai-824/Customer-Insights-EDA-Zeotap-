@@ -34,10 +34,11 @@ This repository contains a comprehensive analysis of an eCommerce Transactions d
 ## Assignment Tasks
 
 ### Task 1: Exploratory Data Analysis (EDA) and Business Insights
-1. Perform EDA on the provided dataset.
+1. Perform EDA on the provided dataset, including visualizations.
 2. Derive at least 5 business insights from the EDA.
    - Insights should be concise, with a maximum of 100 words per insight.
    - Deliverables include a Jupyter Notebook/Python script with EDA code and a PDF report with insights (maximum 500 words).
+   - **Visualizations**: Include relevant plots such as histograms, bar charts, and box plots to illustrate findings.
 
 ### Task 2: Lookalike Model
 - Build a Lookalike Model that recommends 3 similar customers based on user profiles and transaction history.
@@ -54,12 +55,12 @@ This repository contains a comprehensive analysis of an eCommerce Transactions d
 ## Submission Instructions
 1. Upload all PDF and code files in a public GitHub repository.
 2. Follow the naming convention for all files:
-   - `FirstName_LastName_EDA.pdf`
-   - `FirstName_LastName_EDA.ipynb`
-   - `FirstName_LastName_Lookalike.csv`
-   - `FirstName_LastName_Lookalike.ipynb`
-   - `FirstName_LastName_Clustering.pdf`
-   - `FirstName_LastName_Clustering.ipynb`
+   - `Shiva_Kandimalla_EDA.pdf`
+   - `Shiva_Kandimalla_EDA.ipynb`
+   - `Shiva_Kandimalla_Lookalike.csv`
+   - `Shiva_Kandimalla_Lookalike.ipynb`
+   - `Shiva_Kandimalla_Clustering.pdf`
+   - `Shiva_Kandimalla_Clustering.ipynb`
 
 ## Evaluation Process
 Submissions will be evaluated based on the following criteria:
